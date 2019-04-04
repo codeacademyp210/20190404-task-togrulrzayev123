@@ -41,3 +41,5 @@ Siyahıdakı elementləri silə bilmək üçün hər birində icon olmalıdır. 
 
 Siyahıdakı elementlərin üzərinə click olunduqda isə həmin məlumatlar yuxarıda inputlara dolmalıdır. İnputlardaki məlumatları dəyişib yenidən buttona click olunduqda həmin object edit olunmalıdır.
 
+**DİQQƏT**
+Səhifə reload olunduqda, browser-i bağlayıb açdıqda məlumatlar itməməlidir. Məlumatları saxlamaq üçün localStorage istifade edin.
